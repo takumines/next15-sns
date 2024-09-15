@@ -1,6 +1,6 @@
 // components/LeftSidebar.tsx
 import Link from "next/link";
-import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
+import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/Avatar";
 import {
   HomeIcon,
   CompassIcon,

@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Input } from "@/components/ui/input";
+import { Input } from "@/components/ui/Input";
 import { LogInIcon, SearchIcon, BellIcon, MailIcon } from "./Icons";
 
 export default function Header() {
